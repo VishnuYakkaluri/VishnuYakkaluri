@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently practicing DevOps tools<br>I'm Looking for an opportunity to guide my career in DevOps
+DevOps Enthusiastic
 
 
 ## 🌐 Socials:
